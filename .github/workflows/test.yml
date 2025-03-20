@@ -14,5 +14,5 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Echo
-        run: echo "This is a test for workflow\n"
-        run: echo "Hello, world!\n"
+        step1: echo "This is a test for workflow\n"
+        step2: echo "Hello, world!\n"
