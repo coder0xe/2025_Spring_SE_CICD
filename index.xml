@@ -1,1 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Team Coders007</title><link>https://coder0xe.github.io/2025_Spring_SE_CICD/</link><description>Recent content on Team Coders007</description><generator>Hugo</generator><language>zh-cn</language><atom:link href="https://coder0xe.github.io/2025_Spring_SE_CICD/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Team Coders 007 on Team Coders007</title><link>https://coder0xe.github.io/2025_Spring_SE_CICD/</link><description>Recent content in Team Coders 007 on Team Coders007</description><generator>Hugo</generator><language>zh-cn</language><atom:link href="https://coder0xe.github.io/2025_Spring_SE_CICD/index.xml" rel="self" type="application/rss+xml"/><item><title>PM/运维</title><link>https://coder0xe.github.io/2025_Spring_SE_CICD/dqr/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coder0xe.github.io/2025_Spring_SE_CICD/dqr/</guid><description>&lt;h1 id="coder0xe-has-overflowed">
+ Coder0xe has overflowed!
+ &lt;a class="heading-link" href="#coder0xe-has-overflowed">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h1>
+&lt;pre>&lt;code>大家好，我是团队PM/运维coder0xe，爱写bug, 爱搞抽象，不爱写代码，内存很小，写着写着代码就溢出了...
+&lt;/code>&lt;/pre>
+&lt;ul>
+&lt;li>Segment fault!&lt;/li>
+&lt;li>Core dump!&lt;/li>
+&lt;li>Nullptr!&lt;/li>
+&lt;/ul></description></item></channel></rss>
