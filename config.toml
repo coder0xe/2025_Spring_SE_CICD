@@ -1,0 +1,4 @@
+baseURL = "https://coder0xe.github.io/2025_Spring_SE_CICD/"
+languageCode = "zh-cn"
+title = "Team Coders007"
+theme = "coder"  # 使用的主题名称
