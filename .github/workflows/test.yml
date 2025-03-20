@@ -8,11 +8,11 @@ on:
 
 jobs:
   test:
-  runs-on: ubuntu-latest
-  steps:
-    - name: Checkout
-      uses: actions/checkout@v4
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
 
-    - name: Echo
-      run: echo "This is a test for workflow\n"
-      run: echo "Hello, world!\n"
+      - name: Echo
+        run: echo "This is a test for workflow\n"
+        run: echo "Hello, world!\n"
