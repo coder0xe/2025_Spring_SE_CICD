@@ -20,6 +20,7 @@ jobs:
       - name: Install Jekyll and Bundler
         run: |
           gem install jekyll bundler
+          gem install jekyll-theme-cayman
 
       - name: Build site
         run: |
